@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "等身大のラブソング",
+  "base_artist": "Aqua Timez",
+  "createdAt": "2026-01-07T09:26:40.323799Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "等身大のラブソング",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/01_等身大のラブソング_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "等身大のラブソング",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/02_等身大のラブソング_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "P.S. 等身大のラブソング",
+      "artist": "MIREI",
+      "has_synced": true,
+      "path": "select/03_P.S._等身大のラブソング_MIREI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "P.S. 等身大のラブソング-當山みれい (HD)",
+      "artist": "大楊_Jens and Music",
+      "has_synced": true,
+      "path": "select/04_P.S._等身大のラブソング-當山みれい_(HD)_大楊_Jens_and_Music.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "等身大のラブソング (Remastered 2025)",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/05_等身大のラブソング_(Remastered_2025)_Aqua_Timez.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "等身大のラブソング",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/pl_01_等身大のラブソング_Aqua_Timez.txt"
+    }
+  ]
+}
